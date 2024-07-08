@@ -5,6 +5,7 @@
 2. STL (Standard Template Library)
 3. Operators (Bitwise Operators)
 4. Number System Conversions
+5. Arrays
 
 # Starting Date of Preparation
 28-June-2024
